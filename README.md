@@ -26,17 +26,17 @@ I'm **Thukten Dema**, a passionate AI and Data Science student from Bhutan BT. I
 ### 🛠 Skills
 **Hard Skills:**  
 Machine Learning |
-Deep Learning|
-Project Management|
-Data Collection|
+Deep Learning |
+Project Management |
+Data Collection |
 Data Analysis  
 
 **Soft Skills:**  
-Leadership|
-Teamwork|
-Communication|
-Adaptability|
-Willingness to Learn|
+Leadership |
+Teamwork |
+Communication |
+Adaptability |
+Willingness to Learn |
 Open Mindset
 
 ---
