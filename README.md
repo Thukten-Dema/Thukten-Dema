@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Thukten Dema**, a passionate AI and Data Science student from Bhutan 🇧🇹. I specialize in machine learning, deep learning, and natural language processing. I enjoy working on impactful tech — from fraud detection to accessibility tools — and aim to contribute meaningfully to the future of ethical, inclusive AI.
+I'm **Thukten Dema**, a passionate AI and Data Science student from Bhutan BT. I specialize in machine learning, deep learning, and natural language processing. I enjoy working on impactful tech — from fraud detection to accessibility tools — and aim to contribute meaningfully to the future of ethical, inclusive AI.
 
 ---
 
@@ -25,10 +25,19 @@ I'm **Thukten Dema**, a passionate AI and Data Science student from Bhutan 🇧�
 
 ### 🛠 Skills
 **Hard Skills:**  
-`Machine Learning` `Deep Learning` `Project Management` `Data Collection` `Data Analysis`  
+Machine Learning
+Deep Learning
+Project Management
+Data Collection
+Data Analysis  
 
 **Soft Skills:**  
-`Leadership` `Teamwork` `Communication` `Adaptability` `Willingness to Learn` `Open Mindset`  
+Leadership
+Teamwork
+Communication
+Adaptability
+Willingness to Learn
+Open Mindset
 
 ---
 
