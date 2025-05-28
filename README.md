@@ -5,8 +5,8 @@ I'm **Thukten Dema**, a passionate AI and Data Science student from Bhutan BT. I
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: AI solutions for fraud protection, content generation, and assistive technologies.
-- 🌱 I’m currently learning: Advanced deep learning (GANs, RNNs), AWS Cloud, and UI/UX design.
+- 🔭 I’m currently working on **PMO Dashboard** – a government-level real-time indicator system.
+- 🌱 I’m currently learning: Advanced deep learning (GANs, RNNs), NLP, and UI/UX design.
 - 👯 I’m looking to collaborate on: Innovative AI projects in healthcare, finance, and education.
 - 🤔 I’m looking for help with: Enhancing model deployment, integrating AI with mobile/web apps.
 - 💬 Ask me about: Frontend dev, machine learning, NLP, accessibility design, and project management.
